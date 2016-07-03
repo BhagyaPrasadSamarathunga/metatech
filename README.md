@@ -1,2 +1,1 @@
-# metatech
-Testing for metatecno
+I'm Bhagya Samarathunga .I belong to Kegalle district. I'm graduate from University Of MOratuwa Faculty of Information Technology.I have industry experence at Enhanzer(pvt)Ltd and Abanse(pvt)Ltd.I ma quit good in C# and ASP.NET technology.
